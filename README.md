@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img width="80%" alt="Image" src="https://github.com/user-attachments/assets/cd86cc48-504e-4ea7-a01c-749f207f4402">
+</p>
 
-<!--
-**Anna-ved/Anna-ved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+System and Applied Software Engineering Student <br>
+ITMO University
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I'm a third-year Bachelor's student in **System and Applied Software Engineering** at **ITMO University**.
+
+I'm currently learning Java and backend development while building projects to strengthen my programming skills.
+
+---
